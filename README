@@ -1,0 +1,7 @@
+Tesseract is an OCR (Optical Character Recognition) engine developed initially by HP. It was then open sourced in 2005 since when, Google has been developing new versions.
+
+Tesseract engine is developed in C++. It has a wrapper 'Tess4j' which helps to bind it on Java code.
+
+Follow instructions to use Tesseract API in your java code in this link: https://paradox2107.wordpress.com/2017/11/16/using-tesseract-api-in-your-java-code/
+
+This github project contains my implementation of the Tesseract API to scan and read basic image and pdf files.
